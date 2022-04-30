@@ -1,0 +1,38 @@
+.copy_right_footer {
+position: fixed;
+bottom: 0;
+width: 100%;
+text-align: center;
+}
+.body {
+    background-color: aqua;
+}
+.heading {
+    font-style: italic;
+    font-size: medium;
+    font-weight: bold;
+}
+.warning {
+    font-weight: bold;
+    font-style: italic;
+    font-size: medium;
+    color: red;
+}
+img:hover{
+    border-radius: 140px;
+}
+img{
+width: 500px;
+height: 400px;
+box-shadow: 0 6px 8px 0 black;
+padding: 10px;
+}
+#camera {
+    width: 500px;
+    height: 500px;
+    border: 1px;
+    border:1px solid rgb(87, 2, 2);
+}
+.column {
+    display: inline;
+}
